@@ -6,5 +6,11 @@ const titles = [
 { name: "Neon Rookie", rarity: "Common", color: "#cccccc", prob: 0.4 },
   { name: "skibidi", rarity: "Common", color: "#cccccc", prob: 0.3 },  
   { name: "ohio", rarity: "Common", color: "#22ff00", prob: 0.1 },
+    { name: "drpepper", rarity: "Common", color: "#22ff00", prob: 0.4 },
+    { name: "coke", rarity: "Common", color: "#22ff00", prob: 0.5 },
+    { name: "spendhio", rarity: "Common", color: "#22ff00", prob: 0.1 },
+
+
+
 // Repeat this pattern to fill up 50-100 titles with creative names, colors, and rarities
 ];
