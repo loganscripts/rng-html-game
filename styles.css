@@ -21,7 +21,7 @@ letter-spacing: 3px;
 }
 
 .title-box {
-font-size: 1.8em;
+font-size: 1.6em;
 background: #222;
 padding: 25px;
 margin: 20px 0;
@@ -32,7 +32,7 @@ transition: all 0.3s ease-in-out;
 }
 
 .roll-button {
-font-size: 1.4em;
+font-size: 1.3em;
 padding: 15px 40px;
 background: #bb66ff;
 border: none;
